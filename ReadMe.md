@@ -31,8 +31,8 @@ The goal of this portfolio is to present myself professionally, showcase the pro
    cd portfolio
 ## 🔗 Live Site
 
-> **[Click here to visit the live website](https://DesmondTutu254.github.io/portfolio)**  
-(https://github.com/DesmondTutu254/Portfolio/tree/master)
+👉 **[Click here to visit the live website](https://DesmondTutu254.github.io/portfolio)**
+
 
 ## 👨🏽‍🚀 About the Author
 
