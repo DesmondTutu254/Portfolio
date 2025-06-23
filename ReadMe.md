@@ -32,7 +32,7 @@ The goal of this portfolio is to present myself professionally, showcase the pro
 ## 🔗 Live Site
 
 > **[Click here to visit the live website](https://DesmondTutu254.github.io/portfolio)**  
-(*Replace this link with your actual deployed site after publishing*)
+(https://github.com/DesmondTutu254/Portfolio/tree/master)
 
 ## 👨🏽‍🚀 About the Author
 
